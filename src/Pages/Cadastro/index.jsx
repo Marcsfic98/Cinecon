@@ -15,10 +15,11 @@ const Cadastro = () => {
      <Input type='password' placeholder='Senha'/>
      <Input type='password' placeholder='Confirmar Senha'/>
      <br/>
-     <Button title='Entrar'/>
+     <Button title='Cadastrar'/>
      <br/>
      <br/>
      <p>Não possui conta ?  <a href='#'>Criar Conta !</a></p>
+     <br/>
    </ContainerCadastro>
   );
 }

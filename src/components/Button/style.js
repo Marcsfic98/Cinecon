@@ -21,4 +21,8 @@ export const ContainerButton = styled.button`
             height: calc(100% + 10px);
             border-radius: 22px;
         }
+
+         &:hover{
+            opacity:0.8;
+         }
 `

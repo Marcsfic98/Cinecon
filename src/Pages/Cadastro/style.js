@@ -18,6 +18,7 @@ export const Input = styled.input`
 
     background:transparent;
     border:0;
+    font-size:16px;
     border-bottom: 2px solid blue;
     margin: 20px 0;
     width:70%;
