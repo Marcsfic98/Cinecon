@@ -1,10 +1,16 @@
 import React from 'react'
+import {ContainerHeader , Center} from './style'
+import { Logo } from '../Logo'
+import { Avatar } from '../Avatar'
 
 const Header = () => {
   return (
-    <div>
-      
-    </div>
+    <ContainerHeader>
+        <Center>
+        <Logo/>
+        <Avatar/>
+        </Center>
+    </ContainerHeader>
   )
 }
 
