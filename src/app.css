@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+.container{
+
+    background-image: url('https://img.freepik.com/vetores-premium/fundo-de-cor-azul-e-branco-geometrico-abstrato-ilustracao-vetorial_181182-19794.jpg?w=2000');
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
